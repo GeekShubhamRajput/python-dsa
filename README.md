@@ -15,7 +15,6 @@ Data Structures and Algorithms implemented and practiced using Python.
 * Graphs
 * Heaps
 * Recursion
-* Heaps
 * Recursive Binary Search Trees
 * Tree Traversal
 * Basic Sorts
