@@ -4,16 +4,23 @@ Data Structures and Algorithms implemented and practiced using Python.
 
 ## Topics
 
-* Arrays
-* Strings
+* Big O notation
+* Classes and Pointers
 * Linked Lists
-* Stacks
-* Queues
+* Doubly Linked Lists
+* Stacks and Queues
 * Trees
+* Binary Search Tree(BST)
+* Hash Tables
 * Graphs
-* Searching
-* Sorting
+* Heaps
 * Recursion
+* Heaps
+* Recursive Binary Search Trees
+* Tree Traversal
+* Basic Sorts
+* Merge Sort
+* Quick Sort
 * Dynamic Programming
 
 ## Purpose
