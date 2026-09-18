@@ -1,4 +1,4 @@
-# Python DSA
+# DSA with Python
 
 Data Structures and Algorithms implemented and practiced using Python.
 
